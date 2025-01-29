@@ -32,19 +32,20 @@ Proyek ini menggunakan model YOLOv8 sebagai algoritma deteksi objek utama, yang 
 
 ### Hasil
 #### Dwell Time
+Mengukur durasi waktu sebuah objek yang terdeteksi sejak pertama kali muncul pada video.
 ![image](https://github.com/user-attachments/assets/68e6e3f8-6358-4f18-8015-13835a3399fc)
-mengukur durasi waktu sebuah objek yang terdeteksi sejak pertama kali muncul pada video.
 
 #### Line Counting
-![image](https://github.com/user-attachments/assets/468e7625-030e-4857-b35c-22d385899796)
 Menghitung jumlah objek yang berada dalam sebuah area yang didefinisikan.
+![image](https://github.com/user-attachments/assets/468e7625-030e-4857-b35c-22d385899796)
 
 #### Zone & In/Out Counting
-![image (1)](https://github.com/user-attachments/assets/c61d99a2-b669-44eb-8027-b7d3e84081fa)
 Menghitung jumlah objek yang masuk dan keluar dari area tertentu.
+![image (1)](https://github.com/user-attachments/assets/c61d99a2-b669-44eb-8027-b7d3e84081fa)
 
 #### Integrasi MySQL
-![image (2)](https://github.com/user-attachments/assets/ac9b4176-d764-4922-8aec-65036b8b5741)
 Data hasil deteksi seperti session, personID, koordinat bounding box (x1,y1,w,h), dan Dwell Time disimpan ke dalam database MySQL.
+![image (2)](https://github.com/user-attachments/assets/ac9b4176-d764-4922-8aec-65036b8b5741)
+
 
 
