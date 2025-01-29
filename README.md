@@ -11,7 +11,7 @@ Dataset didapatkan dari gabungan dataset [crowd counting dataset Computer Vision
 | Test | 231 |
 
 ## Model 
-Proyek ini menggunakan model YOLOv8 sebagai algoritma deteksi objek utama, yang telah diimplementasikan dengan berbagai use case seperti line counting, zone counting, dan in/out counting.
+Proyek ini menggunakan model YOLOv8 sebagai algoritma deteksi objek utama, yang telah diimplementasikan dengan SORT (Simple, Online and Realtime Tracker) untuk mencapai berbagai use case seperti line counting, zone counting, dan in/out counting.
 
 ### Environment
 - GeForce RTX 4060
