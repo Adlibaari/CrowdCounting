@@ -44,7 +44,7 @@ Menghitung jumlah objek yang masuk dan keluar dari area tertentu.
 ![image (1)](https://github.com/user-attachments/assets/c61d99a2-b669-44eb-8027-b7d3e84081fa)
 
 #### Integrasi MySQL
-Data hasil deteksi seperti session, personID, koordinat bounding box (x1,y1,w,h), dan Dwell Time disimpan ke dalam database MySQL.
+Data hasil deteksi seperti session, personID, koordinat bounding box (x1,y1,w,h), dan Dwell Time disimpan ke dalam database MySQL. <br>  
 ![image (2)](https://github.com/user-attachments/assets/ac9b4176-d764-4922-8aec-65036b8b5741)
 
 
